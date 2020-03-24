@@ -2,6 +2,9 @@
 
 This is an attempt to build a CPython extension using OpenMP offloading to GPUs at NERSC.  Thus far we have not been successful.
 
+Information on NERSC GPUs:
+* https://docs-dev.nersc.gov/cgpu/software/
+
 ## Enviroment setup for clang
 
 ```
