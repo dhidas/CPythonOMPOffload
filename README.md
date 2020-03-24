@@ -42,5 +42,9 @@ sbatch submit_mymain3.sh
 ## Build AddTwo module with setuptools.  Running segfaults
 ```
 python setup.py build_ext --inplace
+submit_python.sh
+```
+Running also fails:
+```
 python run.py
 ```
